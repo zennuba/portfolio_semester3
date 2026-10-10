@@ -1,0 +1,59 @@
+{
+  "id": "personal-portfolio",
+  "kicker": "CASE · PERSONAL PORTFOLIO",
+  "title": "Professionelt digitalt portfolio",
+  "hook": "Hvordan kan jeg designe og udvikle et professionelt digitalt portfolio, der effektivt fremviser mine kompetencer inden for multimediedesign og min personlige stil med henblik på at tiltrække potentielle praktikvirksomheder?",
+  "intro": "Et individuelt 3. semesterprojekt med fokus på at planlægge, designe, udvikle og implementere et professionelt digitalt portfolio, som forberedelse til praktikperioden.",
+  "responsibility": "Planlægning, design, udvikling og implementering af det digitale portfolio.",
+  "purpose": "At demonstrere kompetencer som multimediedesigner, vise arbejdsprocesser og skabe et professionelt udtryk målrettet fremtidige praktikværter eller arbejdsgivere.",
+  "opportunities": [
+    "Fremvise kompetencer inden for multimediedesign.",
+    "Præsentere tidligere projekter og cases.",
+    "Dokumentere arbejdsprocesser.",
+    "Skabe en personlig og professionel profil.",
+    "Målrette portfolioet mod potentielle praktikvirksomheder."
+  ],
+  "finalSolution": "Digitalt portfolio",
+  "learning": [
+    "Planlægge og udvikle en digital personlig portefølje.",
+    "Arbejde med brugeroplevelse og programmering.",
+    "Anvende objektorienteret programmering.",
+    "Anvende JavaScript classes, encapsulation, inheritance og composition.",
+    "Anvende JavaScript-moduler med ES6 import/export.",
+    "Anvende Object-Oriented UX.",
+    "Strukturere brugergrænseflade og kode omkring centrale objekter.",
+    "Arbejde med HTML, SCSS og JavaScript.",
+    "Arbejde med tilgængelighed og vedligeholdelsesmuligheder.",
+    "Dokumentere og vurdere brugen af AI."
+  ],
+  "reflection": null,
+  "testIteration": null,
+  "prototype": "Responsiv, tilgængelig og interaktiv digital personlig portefølje.",
+  "design": "Personlig digital portefølje målrettet fremtidige praktikværter og arbejdsgivere.",
+  "date": {
+    "start": "2026-08-31",
+    "end": "2026-10-09"
+  },
+  "status": null,
+  "type": "Individual project",
+  "skill": [
+    "UX Design",
+    "UI Design",
+    "Frontend Development",
+    "Object-Oriented Programming",
+    "Object-Oriented UX",
+    "JavaScript",
+    "SCSS",
+    "Responsive Design",
+    "Accessibility"
+  ],
+  "tool": ["HTML", "SCSS", "JavaScript", "Figma"],
+  "processMethod": ["Object-Oriented UX", "Object-Oriented Programming"],
+  "role": "Multimedia Designer",
+  "achievementResult": null,
+  "testimonial": null,
+  "targetAudience": "Potentielle praktikværter og arbejdsgivere",
+  "viewAllProjects": null,
+  "filterProjects": null,
+  "sortProjects": null
+}

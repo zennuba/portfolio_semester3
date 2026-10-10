@@ -1,0 +1,76 @@
+[
+
+
+  {
+    "institution": "IBA Erhvervsakademi Kolding",
+    "education": "Multimediedesigner",
+    "type": "Online",
+    "date": {
+      "start": "2026-01",
+      "end": "2027-05"
+    },
+    "location": null,
+    "metadata": null,
+    "cta": null
+  },
+  {
+    "institution": "UCL Erhvervsakademi og Professionshøjskole",
+    "education": "Multimediedesigner",
+    "type": null,
+    "date": {
+      "start": "2025-02",
+      "end": "2026-01"
+    },
+    "location": null,
+    "metadata": null,
+    "cta": null
+  },
+  {
+    "institution": "Nordvestsjællands Erhvervs- og Gymnasieuddannelser",
+    "education": "EUX, EUC",
+    "type": "Online",
+    "date": {
+      "start": "2024-01",
+      "end": "2025-01"
+    },
+    "location": null,
+    "metadata": null,
+    "cta": null
+  },
+  {
+    "institution": "TietgenSkolen",
+    "education": "EUX, Eventkoordinator",
+    "type": null,
+    "date": {
+      "start": "2023-08",
+      "end": "2024-01"
+    },
+    "location": null,
+    "metadata": null,
+    "cta": null
+  },
+  {
+    "institution": "Vesterbro HF Copenhagen",
+    "education": "HF enkeltfag",
+    "type": null,
+    "date": {
+      "start": "2002",
+      "end": "2004"
+    },
+    "location": "Copenhagen",
+    "metadata": null,
+    "cta": null
+  },
+  {
+  "institution": "Matas A/S",
+  "education": "Materialist elev",
+  "type": null,
+  "date": {
+    "start": "1996",
+    "end": "1998"
+  },
+  "location": "København, Region Hovedstaden, Danmark",
+  "metadata": null,
+  "cta": null
+}
+]
